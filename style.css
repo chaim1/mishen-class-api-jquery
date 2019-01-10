@@ -1,0 +1,17 @@
+.img{
+    width: 20vw;
+    height: 200px;
+}
+.divImg{
+}
+.divContent{
+    float: right;
+}
+.content{
+
+}
+.mainDiv{
+    border: 1px solid black;
+    /* float: right; */
+
+}
