@@ -51,7 +51,7 @@ var clear = `<div class=""></div>`;
         console.log(typeof countries.length);
         console.log(i);
         
-        var tempMain = `<div class="col-md-5 offset-md-1 mainDiv divImg">
+        var tempMain = `<div class="col-md-5  mainDiv divImg">
         <img class="img" src="${countries[i]["flag"]}" alt="">
         <div class="divContent">
             <h3 class="content">Name: ${countries[i]['name']}</h3>
